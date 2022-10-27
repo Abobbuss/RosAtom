@@ -1,0 +1,16 @@
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\bin\Debug\Стажировка.exe.config
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\bin\Debug\Стажировка.exe
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\bin\Debug\Стажировка.pdb
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\obj\Debug\Стажировка.csprojAssemblyReference.cache
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\obj\Debug\Стажировка.csproj.CoreCompileInputs.cache
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\obj\Debug\Стажировка.exe
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\obj\Debug\Стажировка.pdb
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Стажировка\Стажировка\obj\Debug\Стажировка.csproj.ResolveComReference.cache
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\bin\Debug\Стажировка.exe.config
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\bin\Debug\Стажировка.exe
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\bin\Debug\Стажировка.pdb
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\obj\Debug\Стажировка.csprojAssemblyReference.cache
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\obj\Debug\Стажировка.csproj.ResolveComReference.cache
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\obj\Debug\Стажировка.csproj.CoreCompileInputs.cache
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\obj\Debug\Стажировка.exe
+C:\Users\Витя\Desktop\Стажировка РосАтом\Решение\Кейс 1\Стажировка\Стажировка\obj\Debug\Стажировка.pdb
